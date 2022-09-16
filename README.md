@@ -27,7 +27,7 @@ pkg install git php
 git clone https://github.com/Varun114-Techno/jiotv-server
 
 # Run the script
-php -S localhost:8585 -t "$HOME/JioTVServer"
+php -S localhost:8585 -t "$HOME/jiotv-server"
 ```
 </details>
 
