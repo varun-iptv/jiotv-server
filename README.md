@@ -1,6 +1,6 @@
 # JioTVServer
 
-Grab streaming links of JioTV channels and play on Smart TV, PC etc..
+Grab streaming links of JioTV channels and play on mobile, PC etc..
 
 NOTE: It only works in Indian VPS due to geoblocking
 
